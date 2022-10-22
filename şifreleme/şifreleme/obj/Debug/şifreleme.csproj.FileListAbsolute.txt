@@ -1,0 +1,7 @@
+C:\Users\bfbur\source\repos\şifreleme\şifreleme\bin\Debug\şifreleme.exe.config
+C:\Users\bfbur\source\repos\şifreleme\şifreleme\bin\Debug\şifreleme.exe
+C:\Users\bfbur\source\repos\şifreleme\şifreleme\bin\Debug\şifreleme.pdb
+C:\Users\bfbur\source\repos\şifreleme\şifreleme\obj\Debug\şifreleme.csprojAssemblyReference.cache
+C:\Users\bfbur\source\repos\şifreleme\şifreleme\obj\Debug\şifreleme.csproj.CoreCompileInputs.cache
+C:\Users\bfbur\source\repos\şifreleme\şifreleme\obj\Debug\şifreleme.exe
+C:\Users\bfbur\source\repos\şifreleme\şifreleme\obj\Debug\şifreleme.pdb

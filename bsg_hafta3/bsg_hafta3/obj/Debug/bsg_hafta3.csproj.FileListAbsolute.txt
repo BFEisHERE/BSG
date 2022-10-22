@@ -1,0 +1,10 @@
+C:\Users\bfbur\source\repos\bsg_hafta3\bsg_hafta3\bin\Debug\bsg_hafta3.exe.config
+C:\Users\bfbur\source\repos\bsg_hafta3\bsg_hafta3\bin\Debug\bsg_hafta3.exe
+C:\Users\bfbur\source\repos\bsg_hafta3\bsg_hafta3\bin\Debug\bsg_hafta3.pdb
+C:\Users\bfbur\source\repos\bsg_hafta3\bsg_hafta3\obj\Debug\bsg_hafta3.csprojAssemblyReference.cache
+C:\Users\bfbur\source\repos\bsg_hafta3\bsg_hafta3\obj\Debug\bsg_hafta3.Form1.resources
+C:\Users\bfbur\source\repos\bsg_hafta3\bsg_hafta3\obj\Debug\bsg_hafta3.Properties.Resources.resources
+C:\Users\bfbur\source\repos\bsg_hafta3\bsg_hafta3\obj\Debug\bsg_hafta3.csproj.GenerateResource.cache
+C:\Users\bfbur\source\repos\bsg_hafta3\bsg_hafta3\obj\Debug\bsg_hafta3.csproj.CoreCompileInputs.cache
+C:\Users\bfbur\source\repos\bsg_hafta3\bsg_hafta3\obj\Debug\bsg_hafta3.exe
+C:\Users\bfbur\source\repos\bsg_hafta3\bsg_hafta3\obj\Debug\bsg_hafta3.pdb
